@@ -17,6 +17,7 @@ Shopware 5 features a redesigned update tool. If you updated a Shopware installa
    <p>When updating between different major versions, you need to manually check if your system meets all requirements (PHP version, MySQL version, etc). The Shopware Update tool will not check these requirements for you, and starting the update process on an incompatible system may render your Shopware installation unusable.</p>
    <p>Check the <a href="/developers-guide/shopware-5-upgrade-guide-for-developers/">Shopware 5 Upgrade guide for developers</a> page for more information on system requirements changes from Shopware 4 to 5</p>
 </div>
+go to this page path-to-url/recovery/update to start the update process 
 
 ![Start](screen-update-step1.png)
 
